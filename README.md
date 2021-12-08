@@ -1,0 +1,2 @@
+# ethernot
+ethernet vhdl training
